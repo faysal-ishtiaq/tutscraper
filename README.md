@@ -22,6 +22,6 @@ A demo app that can crawl through websites and collects tutorial based on select
 
 <h3>Install</h3>
 <h5>Download or clone</h5>
-<h5>cd queuet && composer update</h5>
+<h5>cd tutscraper && composer update</h5>
 <h5>Set .env</h5>
 <h5>php artisan migrate</h5>
