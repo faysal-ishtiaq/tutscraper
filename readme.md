@@ -1,8 +1,9 @@
 #tutscraper
-This website crawls through websites and collects posts based on selected category. And show them categorically.
+A demo app that can crawl through websites and collects tutorial based on selected category list.
 
 <h2>About</h2>
-<p>Sign in with twitter. Write a tweet, set time or leave it (if you post it at once) and post. Your tweet will be posted at scheduled time.</p>
+<p>This website crawls through websites and collects posts based on selected category. And show them categorically.
+</p>
 
 <h3>What was used?</h3>
 <ul class="list">
