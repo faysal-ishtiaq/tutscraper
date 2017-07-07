@@ -11,7 +11,6 @@ A demo app that can crawl through websites and collects tutorial based on select
   <li class="item">Bootstrap</li>
   <li class="item">Bootstrap DateTimePicker</li>
   <li class="item">jQuery</li>
-  <li class="item">Twitter REST API</li>
   <li class="item">Laravel artisan command</li>
   <li class="item">Laravel Pagination</li>
   <li class="item">Laravel Queue</li>
